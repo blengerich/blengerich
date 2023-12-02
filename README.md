@@ -36,8 +36,9 @@
 |--|--|
 | [Contextualized.ML](https://github.com/cnellington/contextualized) [![PyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/contextualized-ml/) | Heterogeneous ML models for context-specific inference ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) |
 | [scContextualized.ML](https://github.com/blengerich/scContextualized) | Tools for applying Contextualized.ML to single-cell analysis |
-| [gam_purification](https://github.com/blengerich/gam_purification) | Utilities for Purifying Generalized Additive Models |
-| [ebm_utils](https://github.com/blengerich/ebm_utils) | Utilities for Explainable Boosting Machines |
+| [clEHRity](https://github.com/blengerich/clEHRity) | [![PyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/clehrity/) Automated deconfounding for EHRs |
+| [gam_purification](https://github.com/blengerich/gam_purification) | [![PyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/gam_purification/) Utilities for Purifying Generalized Additive Models |
+| [ebm_utils](https://github.com/blengerich/ebm_utils) | [![PyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/ebm_utils/) Utilities for Explainable Boosting Machines |
 | [my_twilio](https://github.com/blengerich/my_twilio) | Simple utility to text myself when ML training is finished |
 | [GO_Translator](https://github.com/blengerich/GO_Translator) | Simple utiltiy for handling GO Terms in Python |
 
