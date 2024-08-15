@@ -1,5 +1,5 @@
 </p>
-Ben Lengerich <br/>
+<h1> Ben Lengerich</h1> <br/>
 📖 Asst Professor @ UW-Madison
  <br/>
 💡 Let's chat about ML, precision medicine, and computational omics.
