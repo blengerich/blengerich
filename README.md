@@ -1,8 +1,11 @@
-<p align="center">
-<a href="https://github.com/blengerich">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&color=000&size=18&duration=1000&pause=1000&multiline=true&width=300&height=80&lines=Ben+Lengerich;Postdoc+@+MIT,+Broad+Institute;AI+%7C+ML+%7C+Omics+%7C+Precision Medicine" alt="Typing SVG" />
-</a>
+</p>
+Ben Lengerich <br/>
+📖 Asst Professor @ UW-Madison
+ <br/>
+💡 Let's chat about ML, precision medicine, and computational omics.
 <br/>
+:rocket: Check out our <a href="https://lengerichlab.github.io/">group website</a> for ongoing projects and open positions.
+</p>
 
 <a href="https://web.mit.edu/~blengeri/www/">
     <img src="https://img.shields.io/badge/Website-MIT-red?style=flat-square">
@@ -16,16 +19,7 @@
 <a href="https://pypi.org/user/blengerich/">
     <img src="https://img.shields.io/badge/PyPi-blengerich-blue?style=flat-square&logo=pypi&logoColor=white">
 </a>
-
-<br/> 
-
-</p>
-
-📖 Asst Professor @ UW-Madison
- <br/>
-💡 Happy to chat about ML, precision medicine, and computational omics.
 <br/>
-:rocket: Check out our [group website](https://lengerichlab.github.io/) for ongoing projects and open positions.
 
 <details>
 ### Open-Source Research Projects
