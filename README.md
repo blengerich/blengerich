@@ -21,10 +21,13 @@
 
 </p>
 
-📖 Postdoc at MIT
+📖 Asst Professor @ UW-Madison
  <br/>
 💡 Happy to chat about ML, precision medicine, and computational omics.
+<br/>
+:rocket: Check out our [group website](https://lengerichlab.github.io/) for ongoing projects and open positions.
 
+<details>
 ### Open-Source Research Projects
 
 <table>
@@ -77,7 +80,7 @@
 
 </td></tr>
 </table>
-
+</details>
 
 <details>
 <summary>📈 Stats</summary>
