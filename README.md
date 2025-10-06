@@ -4,7 +4,7 @@
  <br/>
 💡 Let's chat about ML, precision medicine, and computational omics.
 <br/>
-:rocket: Check out our <a href="https://lengerichlab.github.io/">group website</a> for ongoing projects and open positions.
+:rocket: Check out our <a href="https://adaptinfer.org/">group website</a> for ongoing projects and open positions.
 </p>
 
 <a href="https://web.mit.edu/~blengeri/www/">
